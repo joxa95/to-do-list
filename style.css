@@ -91,8 +91,10 @@ ul {
 	position: absolute;
 	top: 150px;
 	width: 81%;
-	height: 70vh;
+	height: 63vh;
 	/* background-color: cadetblue; */
+	overflow-x: hidden;
+	/* background-color: aqua; */
 }
 li {
 	margin-top: 17px;
